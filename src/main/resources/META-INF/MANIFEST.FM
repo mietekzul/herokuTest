@@ -1,1 +1,4 @@
+Manifest-Version: 1.0
+Built-By: RazieL
+Created-By: Apache Maven 3.3.3
 Main-Class: CloudHerokuApp
