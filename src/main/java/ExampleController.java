@@ -9,4 +9,7 @@ public class ExampleController {
 		return "Hello Heroku";
 	}
 
+	public void sout() {
+		System.out.println("słabo");
+	}
 }
